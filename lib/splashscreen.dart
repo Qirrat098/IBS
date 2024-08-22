@@ -2,7 +2,8 @@ import 'package:flutter/material.dart';
 import 'package:flutter/services.dart';
 import 'package:get/get.dart';
 import 'package:google_fonts/google_fonts.dart';
-import 'package:practiceaap/plans_and_teams.dart';
+import 'package:ibs/plans_and_teams.dart';
+
 
 class SplashScreen extends StatelessWidget {
   @override

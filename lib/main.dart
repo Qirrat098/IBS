@@ -1,10 +1,9 @@
 import 'package:flutter/material.dart';
 import 'package:get/get.dart';
-import 'package:practiceaap/plans_and_teams.dart';
-import 'package:practiceaap/splashscreen.dart';
+import 'package:ibs/plans_and_teams.dart';
+import 'package:ibs/splashscreen.dart';
 import 'package:flutter/services.dart';
 
-import 'ROUTES.dart';
 
 void main() {
   // Set the status bar color to transparent and icons to black

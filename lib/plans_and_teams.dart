@@ -4,7 +4,7 @@ import 'package:google_fonts/google_fonts.dart';
 import 'Plans_and_Teams/All_focus_areas.dart';
 import 'Plans_and_Teams/All_plans.dart';
 import 'Plans_and_Teams/All_teams.dart';
-import 'Plans_and_Teams/One_Page_plans.dart';
+import 'Plans_and_Teams/One_Page_Plans.dart';
 import 'Tab_indicator.dart';
 import 'drawer_menu.dart';
 
