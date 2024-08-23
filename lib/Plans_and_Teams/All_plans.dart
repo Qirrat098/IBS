@@ -344,7 +344,7 @@ class _AllPlansTabState extends State<AllPlansTab> {
                             ),
                           ),
                           SizedBox(height: 4),
-                          /* RichText(
+                           RichText(
                             text: TextSpan(
                               children: [
                                 TextSpan(
@@ -417,7 +417,7 @@ class _AllPlansTabState extends State<AllPlansTab> {
                                 ),
                               ],
                             ),
-                          ),*/
+                          ),
                         ],
                       ),
                       Positioned(
